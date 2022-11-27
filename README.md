@@ -1,2 +1,2 @@
 # UpdatePasswordPage
- Html ve Css ile tasarlandi
+Designed with Html ve Css. 
